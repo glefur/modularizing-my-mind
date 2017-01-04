@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Modularizing My Mind
+tagline:             My thoughts and experiments in software development
+url:                 https://glefur.github.io/ 	
 paginate:            1
-baseurl:             ""
+baseurl:             "/modularizing-my-mind"
 
 # Assets
 #
@@ -20,11 +20,15 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Goulwen Le Fur
+  url:               https://twitter.com/glefur_
+  email:             goulwen.lefur@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
+
+twitter_username: glefur_
+github_username:  glefur
+

@@ -18,7 +18,7 @@ Et surement d'autres tâches que j'oublie au moment de la rédaction de ce post.
 
 Evidemment comme pour toute prise de poste, mon expérience apporte des forces et de faiblesses vis à vis de la mission. En l'occurrence, je viens du monde de la technique en ayant évolué au fil des ans vers une carrière plus orientée vers le client. Ceci a, par conséquent, un réel intérêt pour un poste de Product Owner.
 
-Je suis assez convaincu de l'intérêt d'avoir un Product Owner qui comprend techniquement se qui se passe dans la partie <em>Dev</em> [^fn-technique_metier]. Les échanges avec l'équipe sont fluides car, même si je maîtrise pas totalement le process de développement derrière le produit (qui est un développement back PHP alors que je viens plutôt du monde Java), il n'est pas nécessaire d'argumenter sur la raison de la durée d'un développement ou de la nécessité de passer du temps à refondre une partie de code car j'ai conscience des problématiques sous-jacentes. Ce background technique m'a permis vite d'évaluer la compétence de l'équipe et donc de me donner confiance sur la capacité à répondre à mes demandes de développement.
+Je suis assez convaincu de l'intérêt d'avoir un Product Owner qui comprend techniquement se qui se passe dans la partie *Dev* [^fn-technique_metier]. Les échanges avec l'équipe sont fluides car, même si je maîtrise pas totalement le process de développement derrière le produit (qui est un développement back PHP alors que je viens plutôt du monde Java), il n'est pas nécessaire d'argumenter sur la raison de la durée d'un développement ou de la nécessité de passer du temps à refondre une partie de code car j'ai conscience des problématiques sous-jacentes. Ce background technique m'a permis vite d'évaluer la compétence de l'équipe et donc de me donner confiance sur la capacité à répondre à mes demandes de développement.
 
 Dans le même esprit cette compétence technique me permet également de facilement determiner la vélocité de l'équipe et donc :
 * De pas trop tomber à côté sur mes perspectives de développement
@@ -26,7 +26,7 @@ Dans le même esprit cette compétence technique me permet également de facilem
 
 # L'agilité à notre sauce
 
-Le terme Product Owner est issu du monde Scrum si je ne me trompe pas, après j'intègre une équipe en construction où la pratique de l'agile se met en place progressivement. Nous ne suivons pas concrètement et formellement une méthode agile plus qu'une autre (donc en particulier nous ne pratiquons pas le Scrum dans tous ses préceptes). Une illustration que j'ai trouvée récemment m'invite à penser qu'on fait du *scrumban* :
+Le terme Product Owner est issu du monde Scrum si je ne me trompe pas, après j'intègre une équipe en construction où la pratique de l'agile se met en place progressivement. Nous ne suivons pas concrètement et formellement une méthode agile plus qu'une autre (donc en particulier nous ne pratiquons pas le Scrum dans tous ses préceptes). Une illustration que j'ai trouvée récemment m'invite à penser qu'on fait du **scrumban** :
 ![scrum vs kanban vs scrumban](https://pbs.twimg.com/media/DQbmr6WUIAA5PCW.jpg:large "scrum vs kanban vs scrumban")
 
 Nous travaillons en effet sur des sprints réguliers, je définis les fonctionnalités à inclure dans le sprint, nous tentons d'estimer le travail pour s'assurer que ce que je compte inclure dans le sprint va rentrer, puis j'effectue un suivi régulier pour voir si on ne dérive pas. Si tel est le cas, je réagence le sprint en sortant des éléments ou en resserrant le périmètre de certaines tâches.
